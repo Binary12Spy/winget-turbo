@@ -28,3 +28,4 @@ VideoLAN.VLC
 GIMP.GIMP
 Microsoft.PowerToys
 AgileBits.1Password
+SyncTrayzor.SyncTrayzor
