@@ -1,0 +1,30 @@
+# Development
+Git.Git
+GitHub.cli
+GitHub.GitHubDesktop
+Microsoft.VisualStudioCode
+Microsoft.VisualStudio.2022.Community-Preview
+Docker.DockerDesktop
+Python.Python.3
+Notepad++.Notepad++
+Postman.Postman
+KiCad.KiCad
+Rustlang.Rustup
+
+# Games
+Valve.Steam
+EpicGames.EpicGamesLauncher
+Nvidia.GeForceExperience
+
+# Media
+Spotify.Spotify
+Discord.Discord
+
+# Utilities
+Google.Chrome
+7zip.7zip
+WireGuard.WireGuard
+VideoLAN.VLC
+GIMP.GIMP
+Microsoft.PowerToys
+AgileBits.1Password
