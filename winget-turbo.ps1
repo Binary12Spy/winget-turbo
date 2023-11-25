@@ -37,5 +37,5 @@ $filteredLines = $lines | Where-Object { $_ -notmatch '^#' }
 
 foreach ($line in $filteredLines) {
     # Execute winget command
-    Start-Process PowerShell -ArgumentList "-Command", "& {winget install --id=$line --accept-source-agreements --accept-package-agreements -e}"
+    Start-Process PowerShell -ArgumentList "-Command", "& {winget install --id=$line --accept-source-agreements --accept-package-agreements -e -h}"
 }
